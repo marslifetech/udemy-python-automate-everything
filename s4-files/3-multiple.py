@@ -10,3 +10,4 @@ for path in file_paths:
         name_parts = list(path.parts)
         new_path_name = path.with_name(f"{name_parts[-3]}-{name_parts[-2]}-{name_parts[-1]}")
         path.rename(new_path_name)
+gg
