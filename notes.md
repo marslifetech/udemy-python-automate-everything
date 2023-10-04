@@ -1,3 +1,11 @@
+# Libraries 
+
+
+## PipEnv 
+pip3 install python-dotenv
+https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1
+
+
 # Section 1 
 
 
@@ -30,3 +38,7 @@ Selenium - broswer automation
 
 
 # Section 3 - Accessing / Building APIs
+REST API 
+
+* use request library to parse json 
+ /.json()/ 
