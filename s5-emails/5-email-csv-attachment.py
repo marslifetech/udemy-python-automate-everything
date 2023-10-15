@@ -28,4 +28,4 @@ while True:
             Merry Christmas!""","merry-christmas.webp"]
             yag.send(to=row['email'],contents=content,subject=subject)
             print(f"sent email to {row['name']}")
-    time.sleep(3600) 
+    time.sleep(3600)  
